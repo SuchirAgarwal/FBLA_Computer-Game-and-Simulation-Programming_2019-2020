@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"IntialScreen","order":1,"parentId":0,"scrollX":1299,"scrollY":805.5},
-{"id":2,"expanded":false,"name":"TrashLevel","order":2,"parentId":0,"scrollX":1299,"scrollY":805.5}
+{"id":1,"expanded":true,"name":"IntialScreen","order":1,"parentId":0,"scrollX":1154.6666666666667,"scrollY":716},
+{"id":2,"expanded":false,"name":"TrashLevel","order":2,"parentId":0,"scrollX":1154.6666666666667,"scrollY":716},
+{"id":3,"expanded":false,"name":"Progress Level","order":3,"parentId":0,"scrollX":1154.6666666666667,"scrollY":716}
 ]
