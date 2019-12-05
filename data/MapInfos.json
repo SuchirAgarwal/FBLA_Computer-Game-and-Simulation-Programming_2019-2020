@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"IntialScreen","order":1,"parentId":0,"scrollX":864.6666666666666,"scrollY":532.3333333333334},
-{"id":2,"expanded":false,"name":"TrashLevel","order":2,"parentId":0,"scrollX":1556.6666666666667,"scrollY":527},
+{"id":1,"expanded":true,"name":"IntialScreen","order":1,"parentId":0,"scrollX":1729.3333333333333,"scrollY":1064.6666666666667},
+{"id":2,"expanded":false,"name":"TrashLevel","order":2,"parentId":0,"scrollX":1729.3333333333333,"scrollY":1064.6666666666667},
 {"id":3,"expanded":false,"name":"Progress Level","order":3,"parentId":0,"scrollX":2594,"scrollY":1597},
-{"id":4,"expanded":false,"name":"MasteryLevel","order":4,"parentId":0,"scrollX":1945.5,"scrollY":1197.75}
+{"id":4,"expanded":false,"name":"MasteryLevel","order":4,"parentId":0,"scrollX":1945.3333333333333,"scrollY":1197.6666666666667}
 ]
