@@ -58,6 +58,7 @@ Topic: Develop a 2D side scrolling game about the FBLA Business Achievement Awar
 
 ## Development Environment
 
+| --- | --- |
 | IDE  | RPG Maker MV  |
 | Language  | Javascript  |
 | Operating System  | Windows |
