@@ -56,10 +56,8 @@ Topic: Develop a 2D side scrolling game about the FBLA Business Achievement Awar
 1. Tap on that button and then tap the report problem button
 1. This will auto generate an email in which you can tell us the problem you found and send it via email
 
-## Technologies Used
+## Development Environment
 
-|               | Technologies Used |
-| ------------- | ------------- |
 | IDE  | RPG Maker MV  |
 | Language  | Javascript  |
 | Operating System  | Windows |
