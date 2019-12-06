@@ -56,10 +56,10 @@ Topic: Develop a 2D side scrolling game about the FBLA Business Achievement Awar
 1. Tap on that button and then tap the report problem button
 1. This will auto generate an email in which you can tell us the problem you found and send it via email
 
-## Technologies Used
+## Development Environment
 
-|               | Technologies Used |
-| ------------- | ------------- |
+| Enrironment Specifics | Tool Used |
+| --- | --- |
 | IDE  | RPG Maker MV  |
 | Language  | Javascript  |
 | Operating System  | Windows |
@@ -69,5 +69,5 @@ Topic: Develop a 2D side scrolling game about the FBLA Business Achievement Awar
 * @uditgarg32
 * @TK164
 
-# Link to Github Page
-If you are a judge and would like to see our Github page please click [here](https://github.com/SuchirAgarwal/FBLA_Computer-Game-and-Simulation-Programming_2019-2020)
+# Link to Github Repo
+If you would like to view our online Github repository please click [here](https://github.com/SuchirAgarwal/FBLA_Computer-Game-and-Simulation-Programming_2019-2020)
