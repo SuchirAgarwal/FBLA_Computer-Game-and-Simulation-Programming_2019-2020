@@ -1,27 +1,22 @@
 # Road to BAA Mastery
-FBLA 2019-2020 Computer Game and Simulation Programming
-
-Parkland High School
-
-Suchir Agarwal, Udit Garg, and Raviteja Kanthamneni
-
-PA FBLA
+  FBLA 2019-2020 Computer Game and Simulation Programming
+  Parkland High School
+  Region 28
+  Suchir Agarwal, Udit Garg, and Raviteja Kanthamneni
+  PA FBLA
 
 ## Overview
 Road to BAA Mastery transforms the Business Achievements Awards Program into a fun and interactive role-playing journey the player undertakes to reach a final goal: the BAA Awards. The player starts on a map where two FBLA elders guide his/her path through the four major levels and minigames: Progress, Service, Education, and Mastery. Completing each level provides the player with an accomplishment token they must have in order to progress through the game. Throughout these levels we integrated lives, tokens, penalties, interactive battles, quizzes, and game progression. By creating a role-playing game we wanted the player to understand the best actions to take and apply the BAA program skills in the real world. Once the player finishes the game they are presented with a pin at the end-game Awards Ceremony just like real FBLA.
 The user interface and instructions are identified when the gameplay starts in order to minimize player confusion.
 
 ### Minigames
-#### FBLA Member Recruitment: Progress Level
+##### FBLA Member Recruitment: Progress Level
 * Players must choose the right words and phrasing to successfully recruit new members to join FBLA and its program.
-
-#### Park Clean-Up: Service Level
+##### Park Clean-Up: Service Level
 * Players pick up the trash and litter polluting a local park alongside of an FBLA student chapter. Additionally, there is a time limit for this level to increase difficulty.
-
-#### Quiz: Education Level
+##### Quiz: Education Level
 * Players must correctly answer questions regarding FBLA and the BAA Program.
-
-#### Final Exam: Master Level
+##### Final Exam: Master Level
 * This level provides a final review of the three essential requirements for the BAA Program. It is inspired to be the boss level of the game where the user can battle monsters and earn large rewards to get to the end of the game.
 
 ## CONTROLS
