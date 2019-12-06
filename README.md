@@ -25,19 +25,19 @@ The user interface and instructions are identified when the gameplay starts in o
 * This level provides a final review of the three essential requirements for the BAA Program. It is inspired to be the boss level of the game where the user can battle monsters and earn large rewards to get to the end of the game.
 
 ## CONTROLS
-[Up Arrow Key] Move Foward
-[Down Arrow Key] Move Backward
-[Left Arrow Key] Move Left
-[Right Arrow Key] Move Right
+* [Up Arrow Key] Move Foward
+* [Down Arrow Key] Move Backward
+* [Left Arrow Key] Move Left
+* [Right Arrow Key] Move Right
 
-[Right-Mouse Button] In-Game Menu/Back/Quit/Exit
-[Middle-Mouse Button] Dash
-[Left-Middle Button] Confirm/Move
+* [Right-Mouse Button] In-Game Menu/Back/Quit/Exit
+* [Middle-Mouse Button] Dash
+* [Left-Middle Button] Confirm/Move
 
-[Enter/Space] Confirm/Interact
-[Q/Page-Up] Show Controls
-[W/Page-Down] Hide Controls
-[ESC/X] In-Game Menu/Back/Quit/Exit
+* [Enter/Space] Confirm/Interact
+* [Q/Page-Up] Show Controls
+* [W/Page-Down] Hide Controls
+* [ESC/X] In-Game Menu/Back/Quit/Exit
 
 ## Development Environment
 
