@@ -46,19 +46,19 @@ The user interface and instructions are identified when the gameplay starts in o
 | Language  | Javascript  |
 | Operating System  | Windows |
 
-#### Running Game on Windows
+### Running Game on Windows
 1. Open Executables Folder
 1. 
 
-#### Running Game on MAC OS
+### Running Game on MAC OS
 1. Open Executable Folder
 1. 
 
-#### Running Game on Web Browser
+### Running Game on Web Browser
 1. Open Executable Folder
 1. 
 
-#### Possible Awards & Tokens
+### Possible Awards & Tokens
 1. Tokens are given when the user completes a level by meetings its requirments. 
 1. Mastery Awards are given when the user receives a perfect score in a specific level. Ex: the user receives a 100% on the Education Level Quiz.
 1. The BAA Gold Award is earned upon completion of the game. 
