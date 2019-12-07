@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Intial Screen","order":1,"parentId":0,"scrollX":1413.2727272727273,"scrollY":878.7272727272727},
+{"id":1,"expanded":true,"name":"Intial Screen","order":1,"parentId":0,"scrollX":1782.5454545454545,"scrollY":975.2727272727274},
 {"id":2,"expanded":false,"name":"Service Level","order":3,"parentId":0,"scrollX":1558.8,"scrollY":966.5999999999999},
-{"id":3,"expanded":false,"name":"Progress Level","order":2,"parentId":0,"scrollX":1558.8,"scrollY":966.5999999999999},
-{"id":4,"expanded":false,"name":"Mastery Level","order":4,"parentId":0,"scrollX":2099.4545454545455,"scrollY":1050}
+{"id":3,"expanded":false,"name":"Progress Level","order":2,"parentId":0,"scrollX":1782.5454545454545,"scrollY":975.2727272727274},
+{"id":4,"expanded":false,"name":"Mastery Level","order":4,"parentId":0,"scrollX":1782.5454545454545,"scrollY":975.2727272727274}
 ]
