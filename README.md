@@ -54,6 +54,10 @@ The user interface and instructions are identified when the gameplay starts in o
 1. Open Executable Folder
 1. 
 
+#### Running Game on Web Browser
+1. Open Executable Folder
+1. 
+
 ### Team Members
 * @SuchirAgarwal
 * @uditgarg32
