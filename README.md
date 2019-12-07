@@ -65,14 +65,18 @@ The user interface and instructions are identified when the gameplay starts in o
 1. The BAA Mastery Award is earned if the user has received all of the Mastery Awards for each level.
 1. The Full Life Award is earned if the user hasn't lost any lives.
 
-|     | Token | Mastery Award |
+|     | Token | Mastery Award |           
 | --- | --- | --- |
-| Progress  | Yes | Yes |
+| Progress  | Yes | Yes |       
 | Service  | Yes | Yes |
 | Education | Yes | Yes |
 
 
-
+| Award | Requirements |           
+| --- | --- |
+| BAA Gold Award  | Completion of Game |       
+| BAA Mastery Award  | Received all Mastery Awards |
+| Full Life Award | No lives lost |
 
 ### Team Members
 * @SuchirAgarwal
