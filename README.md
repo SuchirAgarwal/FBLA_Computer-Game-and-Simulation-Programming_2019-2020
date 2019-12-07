@@ -14,13 +14,13 @@ Road to BAA Mastery transforms the Business Achievements Awards Program into a f
 The user interface and instructions are identified when the gameplay starts in order to minimize player confusion.
 
 ### Minigames
-##### FBLA Member Recruitment: Progress Level
+#### FBLA Member Recruitment: Progress Level
 * Players must choose the right words and phrasing to successfully recruit new members to join FBLA and its program.
-##### Park Clean-Up: Service Level
+#### Park Clean-Up: Service Level
 * Players pick up the trash and litter polluting a local park alongside of an FBLA student chapter. Additionally, there is a time limit for this level to increase difficulty.
-##### Quiz: Education Level
+#### Quiz: Education Level
 * Players must correctly answer questions regarding FBLA and the BAA Program.
-##### Final Exam: Master Level
+#### Final Exam: Master Level
 * This level provides a final review of the three essential requirements for the BAA Program. It is inspired to be the boss level of the game where the user can battle monsters and earn large rewards to get to the end of the game.
 
 ### CONTROLS
@@ -46,17 +46,33 @@ The user interface and instructions are identified when the gameplay starts in o
 | Language  | Javascript  |
 | Operating System  | Windows |
 
-#### Running Game on Windows
+### Running Game on Windows
 1. Open Executables Folder
 1. 
 
-#### Running Game on MAC OS
+### Running Game on MAC OS
 1. Open Executable Folder
 1. 
 
-#### Running Game on Web Browser
+### Running Game on Web Browser
 1. Open Executable Folder
 1. 
+
+### Possible Awards & Tokens
+1. Tokens are given when the user completes a level by meetings its requirments. 
+1. Mastery Awards are given when the user receives a perfect score in a specific level. Ex: the user receives a 100% on the Education Level Quiz.
+1. The BAA Gold Award is earned upon completion of the game. 
+1. The BAA Mastery Award is earned if the user has received all of the Mastery Awards for each level.
+1. The Full Life Award is earned if the user hasn't lost any lives.
+
+|     | Token | Mastery Award |
+| --- | --- | --- |
+| Progress  | Yes | Yes |
+| Service  | Yes | Yes |
+| Education | Yes | Yes |
+
+
+
 
 ### Team Members
 * @SuchirAgarwal
