@@ -47,16 +47,7 @@ The user interface and instructions are identified when the gameplay starts in o
 | Operating System  | Windows |
 
 ### Running Game on Windows
-1. Open Executables Folder
-1. 
-
-### Running Game on MAC OS
-1. Open Executable Folder
-1. 
-
-### Running Game on Web Browser
-1. Open Executable Folder
-1. 
+1. Open the application file in the windows package.
 
 ### Possible Awards & Tokens
 1. Tokens are given when the user completes a level by meetings its requirments. 
