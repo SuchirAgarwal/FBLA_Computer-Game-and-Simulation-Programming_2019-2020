@@ -47,6 +47,8 @@ The user interface and instructions are identified when the gameplay starts in o
 ### Running Game on Windows
 1. Open the application file in the windows package.
 
+### Running Game from index.html
+
 ### Possible Awards & Tokens
 1. Tokens are given when the user completes a level by meetings its requirments. 
 1. Mastery Awards are given when the user receives a perfect score in a specific level. Ex: the user receives a 100% on the Education Level Quiz.
