@@ -53,7 +53,8 @@ Most browsers will not let the index.html file load local files due to security 
 1. Enter `npm install -g browser-sync` in the terminal or command prompt and press enter
 1. If the previous step fails due to permission errors, then use `sudo npm install -g browser-sync`. This will then prompt you to enter your password.
 1. Clone or download this repository.
-1. Use the terminal or command prompt to `cd` into the repository and use the command `browser-sync start --server`. This will automatically load the index.html file in a default browser. In order to specify the desired browser, use `broswer-sync start --server --broswer <CHOICE OF BROWSER>`.
+1. Use the terminal or command prompt to `cd` into the repository and use the command `browser-sync start --server`. This will automatically load the index.html file in a default browser. In order to specify the desired browser, use 
+`broswer-sync start --server --broswer <CHOICE OF BROWSER>`.
 
 ### Other platforms
 Since our game was created with RPG Maker MV, it is distributable on additional platofrms such as macOS, iOS, and Android. We have not included those distributions in this repo due to the difficulty of managing a repo that is this large. If desired, the additional distributions can be built from source using RPG Maker MV.
