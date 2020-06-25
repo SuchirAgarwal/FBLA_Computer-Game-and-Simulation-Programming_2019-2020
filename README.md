@@ -48,6 +48,15 @@ The user interface and instructions are identified when the gameplay starts in o
 1. Open the application file in the windows package.
 
 ### Running Game from index.html
+Most browsers will not let the index.html file load local files due to security reasons. If this is a case, then the two options would be to either enable loading local files or to create a local server. We will take you through the process of creating a local server via Browsersync.
+1. Download and install Node.js from https://nodejs.org/en/download/
+1. Enter `npm install -g browser-sync` in the terminal or command prompt and press enter
+1. If the previous step fails due to permission errors, then use `sudo npm install -g browser-sync`. This will then prompt you to enter your password.
+1. Clone or download the repository
+1. Use the terminal or command prompt to `cd` into the repository and use the command `browser-sync start --server`. This will automatically load the index.html file in a default browser. In order to specify the desired browser, use `broswer-sync start --server --broswer <CHOICE OF BROWSER>`
+
+### Other platforms
+Since our game was created with RPG Maker MV, it is distributable on additional platofrms such as macOS, iOS, and Android. We have not included those distributions in this repo due to the difficulty of managing a repo that is this large. If desired, the additional distributions can be built from source using RPG Maker MV.
 
 ### Possible Awards & Tokens
 1. Tokens are given when the user completes a level by meetings its requirments. 
